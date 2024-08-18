@@ -1,0 +1,5 @@
+requirements
+
+1) streamlit
+2) openai
+3) langchain
